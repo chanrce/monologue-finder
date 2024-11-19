@@ -1,6 +1,8 @@
 # monologue-finder
 Python program that helps actors find the perfect monologue.
 
+![Stage Image](images/Stage_Image.jpg)
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
