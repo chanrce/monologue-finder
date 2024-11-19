@@ -1,7 +1,7 @@
 # Shakespeare Monologue Finder
 Python program that helps actors find the perfect Shakespeare monologue.
 
-![Stage Image](images/Stage_Image.jpg)
+![Stage Image](images/Shakespeare_image)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
