@@ -1,5 +1,5 @@
-# monologue-finder
-Python program that helps actors find the perfect monologue.
+# Shakespeare Monologue Finder
+Python program that helps actors find the perfect Shakespeare monologue.
 
 ![Stage Image](images/Stage_Image.jpg)
 
@@ -9,10 +9,10 @@ Python program that helps actors find the perfect monologue.
 - [Getting Started](#getting-started)
 
 ## About the Project
-Monologue Finder is designed to help actors discover monologues based on criteria such as age, gender, mood, genre, and character type. This tool will assist in your search in whether you're preparing for an audition or simply exploring dramatic texts.
+Shakespeare Monologue Finder is designed to help actors discover monologues based on criteria such as age, gender, mood, genre, and character type. This tool will assist in your search in whether you're preparing for an audition or simply exploring dramatic texts.
 
 ## Features
-- Search monologues by age, gender. mood, genre, and character type
+- Search monologues by play, age, gender, mood, genre, and character type
 - Save favorite monologues for later use
 - Random monologue suggestion to spark exploration
 - Ability to save favorite monologues
