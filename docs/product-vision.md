@@ -14,7 +14,7 @@ An AI-powered platform that helps actors discover the perfect monologue for thei
 
 ## Problem
 
-Actors are often faced with limited monologue content, preventing from putting their best foot forward as casting directors are tired of hearing the same material. Many actors also struggle to find monologues that fit specific criteria, whether it's a certain theme, tone, character type, or actor type.
+Actors are often faced with limited monologue content, preventing them from putting their best foot forward as casting directors are tired of hearing the same material. Many actors also struggle to find monologues that fit specific criteria, whether it's a certain theme, tone, character type, or actor type.
 
 ## Target Users
 
