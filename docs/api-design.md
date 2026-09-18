@@ -39,3 +39,37 @@ Each result should include basic information such as:
 - Tone
 - Word_count
 - Opening_line
+
+---
+
+## GET /monologues/{id}
+
+### Purpose
+
+Retrieves specific monologue by its ID, including the full monologue text and information such as playwright, character, play title, tone, and length.
+
+### Response
+
+Returns the selected monologue including:
+
+- Monologue_id
+- Text
+- Character
+- Title
+- Playwright
+- Act
+- Scene
+- Genre
+- Era
+- Tone
+- Age_range
+- Gender
+- Word_count
+
+### Errors
+
+- 404 Not Found: returned when the requested Monologue_id does not exist.
+
+### Path Parameters
+
+- id (integer) — the Monologue_id of the monologue being requested.
